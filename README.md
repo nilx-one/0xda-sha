@@ -82,3 +82,5 @@ dasha is here.
 life continued.
 
 the question is what remained.
+
+<!-- © 2026 aiaiaiai · aiaiaiai.org -->
